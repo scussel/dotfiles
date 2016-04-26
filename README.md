@@ -9,7 +9,7 @@ This repo builds on the awesome work from [Donne Martin](https://github.com/donn
 
 ##### Clone the Repo
 
-    $ git clone https://github.com/donnemartin/dev-setup.git && cd dev-setup
+    $ git clone https://github.com/scussel/dotfiles.git && cd dev-setup
 
 ##### Run the .dots Script with Command Line Arguments
 
