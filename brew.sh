@@ -132,6 +132,8 @@ brew cask install --appdir="/Applications" spotify
 brew cask install --appdir="/Applications" caffeine
 brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" google-drive
+brew cask install --appdir="/Applications" soundnode
+brew cask install --appdir="/Applications" macid
 #brew cask install --appdir="/Applications" gimp
 #brew cask install --appdir="/Applications" inkscape
 
