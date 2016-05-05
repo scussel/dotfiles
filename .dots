@@ -55,6 +55,15 @@ function runDots() {
             echo ""
             ./osx.sh
         fi
+        if [ $ARG == "web" ] || [ $ARG == "all" ]; then
+            # Run the web.sh Script
+            echo ""
+            echo "------------------------------"
+            echo "Setting web tools defaults."
+            echo "------------------------------"
+            echo ""
+            ./web.sh
+        fi
         if [ $ARG == "digitalocean" ] || [ $ARG == "all" ]; then
             # Run the do.sh Script
             echo ""
